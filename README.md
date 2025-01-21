@@ -1,6 +1,7 @@
 # Conversor de Monedas
 
-Bienvenidos, este es mi codigo de un programa en Java que consiste en un conversor de monedas el cual hace uso de la appi 
+Bienvenidos, este es mi codigo de un programa en Java que consiste en un conversor de monedas que funciona en linea de comandos 
+el cual hace uso de la appi 
 ExchangeRate que se puede encontrar en el siguiente Link: https://www.exchangerate-api.com
 
 Fue programada en IntelliJ IDEA 2024.3.1.1
@@ -15,4 +16,5 @@ La app puede convertir entre ciertas monedas a Dólares y viceversa, las monedas
 - Reales Brasileños
 - Pesos Colombianos
 
+![image](https://github.com/user-attachments/assets/69e7b18d-d4c8-4fd4-8d18-6c2b6ff4c5f5)
 
